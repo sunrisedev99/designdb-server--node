@@ -6,7 +6,7 @@ Set up the environemt variables following `.env.sample`
 
 ```bash
 git clone https://github.com/drawdb-io/drawdb-server.git
-cd drawdb-server
+cd designdb-server
 npm install
 npm start
 ```
